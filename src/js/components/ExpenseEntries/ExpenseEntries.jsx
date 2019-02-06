@@ -37,7 +37,7 @@ export default class ExpenseEntries extends React.Component {
               <thead>
                 <tr>
                   <th>Description</th>
-                  <th style="{ { width:120 } }">Amount</th>
+                  <th style={ { width:120 } }>Amount</th>
                 </tr>
               </thead>
               <tbody>
